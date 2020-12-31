@@ -14,7 +14,7 @@ Included in this repository are:
 
 * [VBA Code](Code) - 2 files with the solutions to the assignment:
 
-* [Primary Assignment][code/VBA Challenge - Wall Street Primary Assignment.bas] - Scans the worksheets and creates the summary file by ticker
+* [Primary Assignment](code/VBA Challenge - Wall Street Primary Assignment.bas) - Scans the worksheets and creates the summary file by ticker
 
 * [Bonus Assignment](Code/VBA Challenge - Wall Street Bonus Assignment.bas) - Scans the above summary file and creates the worksheets and creates the summary file by ticker
 
