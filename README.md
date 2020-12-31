@@ -9,9 +9,11 @@ Included in this repository are:
 * Screen Shots of the yearly tabs showing the solutions
 * An 'Other' file with a A backup copy of all of the screenshots in a word document
 
-[Other](Other/VBA Wall Street Screenshots)
+[Other](Other/VBA_Wall_Street_Screenshots)
+
 [Screen Shots](Images)
-[Primary Assignment](Code/VBA Challenge - Wall Street Primary Assignment.bas)
+
+[Primary Assignment](Code/VBA_Challenge_-_Wall_Street_Primary_Assignment.bas)
 
 ### Files
 
