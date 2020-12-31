@@ -9,10 +9,6 @@ Included in this repository are:
 * Screen Shots of the yearly tabs showing the solutions
 * An 'Other' file with a A backup copy of all of the screenshots in a word document
 
-[Other](Other/VBA_Wall_Street_Screenshots)
-
-[Screen Shots](Images)
-
 
 ### Files
 
@@ -25,6 +21,7 @@ Included in this repository are:
 * [Screen Shots](Images) - Screen Shots of each yearly worksheets showing the final results.
 
 * [Other](Other/VBA_Wall_Street_Screenshots.docx) - Contains a backup copy of all the yearly screen shots in a word document.
+
   
 ### Stock market analysis - Screen Shots for each Year
 
