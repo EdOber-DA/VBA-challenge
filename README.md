@@ -10,15 +10,18 @@ Included in this repository are:
 * An 'Other' file with a A backup copy of all of the screenshots in a word document
 
 
+[Screen Shots](Images)
+
+
 ### Files
 
 * [VBA Code](Code) - 2 files with the solutions to the assignment:
 
-* [Primary Assignment](Code/VBA Challenge - Wall Street Primary Assignment.bas) - Scans the worksheets and creates the summary file by ticker
+  * [Primary Assignment](Code/VBA Challenge - Wall Street Primary Assignment.bas) - Scans the worksheets and creates the summary file by ticker
 
-* [Bonus Assignment](Code/VBA Challenge - Wall Street Bonus Assignment.bas) - Scans the above summary file and creates the worksheets and creates the summary file by ticker
+  * [Bonus Assignment](Code/VBA Challenge - Wall Street Bonus Assignment.bas) - Scans the above summary file and creates the worksheets and creates the summary file by ticker
 
-* [Screen Shots][Images] - Screen Shots of each yearly worksheets showing the final results.
+* [Screen Shots](Images) - Screen Shots of each yearly worksheets showing the final results.
 
 * [Other](Other/VBA Wall Street Screenshots) - Contains a backup copy of all the yearly screen shots in a word document.
   
