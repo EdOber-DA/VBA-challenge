@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module3"
-Sub wall_street_bonus()
+Sub wall_street_bonus_with_dup_search()
   ' --------------------------------------------
   ' --- VBA Wall Street Bonus Assignment     ---
   ' --------------------------------------------
@@ -246,3 +246,4 @@ Sub wall_street_bonus()
   Next ws
 
 End Sub
+

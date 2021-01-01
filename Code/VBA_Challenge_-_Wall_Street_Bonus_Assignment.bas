@@ -34,17 +34,19 @@ Sub wall_street_bonus()
   Great_Total_Vol_Value = ws.Cells(2, "L").Value
 
   ' Output Formatted Headers for the Summary table
+  ' ** Add the year for readability ***
+  ws.Range("O" & "1").Value = "Analysis Year = " & ws.Name
   ws.Range("P" & "1").Value = "Ticker"
   ws.Range("Q" & "1").Value = "Value"
-  ws.Range("P1:Q1").Interior.ColorIndex = 15
-  ws.Range("P1:Q1").Font.FontStyle = "Bold"
-  ws.Range("P1:Q1").HorizontalAlignment = xlCenter
+  ws.Range("O1:Q1").Interior.ColorIndex = 15
+  ws.Range("O1:Q1").Font.FontStyle = "Bold"
+  ws.Range("O1:Q1").HorizontalAlignment = xlCenter
   
   ' Put boxes around the headers
   Dim rng As Range
   
   ' Define range
-  Set rng = ws.Range("P1:Q1")
+  Set rng = ws.Range("O1:Q1")
 
     With rng.Borders
       .LineStyle = xlContinuous
@@ -134,3 +136,4 @@ Sub wall_street_bonus()
   Next ws
 
 End Sub
+

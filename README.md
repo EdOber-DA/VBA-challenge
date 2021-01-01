@@ -6,8 +6,11 @@ This is the VBA of Wall Street Homework Submission.
 
 Included in this repository are: 
 * VBA Files that solve the homeworks assignments
-  ** Note: Added an additional Module 3 "Bonus" that looks for and prints any duplicates of the 3 searches 
+  
+  * Note: Added an additional Module 3 "Bonus" that looks for and conditionally prints a grid of any duplicates of the 3 searches 
+
 * Screen Shots of the yearly tabs showing the solutions
+
 * An 'Other' file with a A backup copy of all of the screenshots in a word document and test data for Module 3
 
 
@@ -27,6 +30,7 @@ Included in this repository are:
 
   * [Word Doc of Screen Shots](Other/VBA_Wall_Street_Screenshots.docx) - Contains a backup copy of all the yearly screen shots in a word document.
   * [Module 3 Test Data](Other/Module_3_Test_Data_With_Dups.xlsm) - Contains a backup copy of all the yearly screen shots in a word document.
+    Note: the module 3 is included, and each sheet is annoted in column "N" with the expected result for the dups being printed when tested 
 
   
 ### Stock market analysis - Screen Shots for each Year
