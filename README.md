@@ -16,7 +16,7 @@ Included in this repository are:
 
 ### Files
 
-* [VBA Code](Code) - 2 files with the solutions to the assignment:
+* [VBA Code](Code) - 3 files with the solutions to the assignment:
 
   * [Primary Assignment](Code/VBA_Challenge_-_Wall_Street_Primary_Assignment.bas)- Scans the worksheets and creates the summary file by ticker
 
